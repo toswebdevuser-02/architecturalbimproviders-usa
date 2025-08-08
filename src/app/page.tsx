@@ -135,7 +135,7 @@ export default function Home() {
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
                 <h3 className="font-headline text-2xl mb-2">Gensler</h3>
                 <p className="mb-4">
-                  Founded in 1965, Gensler is a global architecture firm with a
+                  Founded in 1965,<a href="http://www.gensler.com" target="_blank" rel="noopener noreferrer">Gensler</a> is a global architecture firm with a
                   robust BIM & Design Systems team. Their integrated delivery
                   approach spans strategy, design, implementation, and asset use.
                 </p>
@@ -145,14 +145,14 @@ export default function Home() {
                   <li>Post-occupancy evaluations</li>
                 </ul>
                 <p className="text-sm mt-2"><strong>Case Study:</strong> SFO Terminal 2 Renovation used BIM to integrate TSA, baggage systems, and retail fit-outs, reducing clashes by 30%.</p>
-                <h4>Website - www.gensler.com</h4>
+               
                 </div>
 
               {/* HOK */}
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
                 <h3 className="font-headline text-2xl mb-2">HOK</h3>
                 <p className="mb-4">
-                  HOK pioneered firm-wide BIM adoption with its “BIM Certified”
+                  <a href="http://www.hok.com" target="_blank" rel="noopener noreferrer">HOK</a> pioneered firm-wide BIM adoption with its “BIM Certified”
                   program. Their services emphasize Revit-based parametric modeling and cloud collaboration.
                 </p>
                 <ul className="list-disc pl-5 space-y-1 text-sm">
@@ -160,29 +160,29 @@ export default function Home() {
                     <li>Cloud-based collaboration</li>
                 </ul>
                 <p className="text-sm mt-2"><strong>Case Study:</strong> David H. Koch Center for NewYork–Presbyterian HOK used BIM for multi-firm coordination, cutting RFI cycles by 40%.</p>
-                 <h4>Website - www.hok.com</h4>
+              
               </div>
 
               {/* Tesla Outsourcing Services */}
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
                 <h3 className="font-headline text-2xl mb-2">Tesla Outsourcing Services</h3>
                 <p className="mb-4">
-                  With roots in California and offshore production in India, Tesla
-                  Outsourcing Services delivers CAD to BIM conversions, Revit family creation, and as-built modeling.
+                  With roots in California and offshore production in India,<a href="http://www.teslaoutsourcingservices.com" target="_blank" rel="noopener noreferrer">Tesla
+                  Outsourcing Services</a> delivers CAD to BIM conversions, Revit family creation, and as-built modeling.
                 </p>
                  <ul className="list-disc pl-5 space-y-1 text-sm">
                     <li>CAD to BIM conversions</li>
                     <li>4D/5D simulations</li>
                 </ul>
                 <p className="text-sm mt-2"><strong>Case Study:</strong> Federal courthouse renovation Tesla’s scan-to-BIM workflow captured existing conditions within two weeks, slashing site survey time by half.</p>
-                 <h4> www.teslaoutsourcingservices.com </h4>
+             
               </div>
               
               {/* Zaha Hadid Architects (ZHA) */}
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
                 <h3 className="font-headline text-2xl mb-2">Zaha Hadid Architects (ZHA)</h3>
                 <p className="mb-4">
-                  ZHA integrates computational design with BIM to handle complex
+                  <a href="http://www.zaha-hadid.com" target="_blank" rel="noopener noreferrer">ZHA</a> integrates computational design with BIM to handle complex
                   geometries, using custom scripts and metadata-driven workflows.
                 </p>
                  <ul className="list-disc pl-5 space-y-1 text-sm">
@@ -190,14 +190,14 @@ export default function Home() {
                     <li>Metadata-driven workflows</li>
                 </ul>
                 <p className="text-sm mt-2"><strong>Case Study:</strong> Beijing Daxing Airport satellite terminal ZHA leveraged BIM for aerodynamic roof panels, reducing fabrication errors by 25%.</p>
-                <h4> www.zaha-hadid.com</h4>
+              
               </div>
 
               {/* Foster + Partners */}
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
                 <h3 className="font-headline text-2xl mb-2">Foster + Partners</h3>
                 <p className="mb-4">
-                  Foster + Partners’ in-house BIM & Design Systems team acts as the
+                  <a href="http://www.fosterandpartners.com" target="_blank" rel="noopener noreferrer">Foster + Partners’</a> in-house BIM & Design Systems team acts as the
                   guardian of the digital model, ensuring a single source of truth.
                 </p>
                  <ul className="list-disc pl-5 space-y-1 text-sm">
@@ -205,7 +205,7 @@ export default function Home() {
                     <li>VR-enabled design reviews</li>
                 </ul>
                  <p className="text-sm mt-2"><strong>Case Study:</strong> Bloomberg London HQ BIM-driven carbon testing informed structure choices, cutting embodied carbon by 20%.</p>
-                <h4> www.fosterandpartners.com </h4>
+               
               </div>
             </div>
           </div>
