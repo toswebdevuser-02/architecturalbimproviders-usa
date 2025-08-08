@@ -20,7 +20,6 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=PT+Sans:wght@400;700&display=swap" rel="stylesheet" />
       <meta name="google-site-verification" content="R5-G4Z02h_RxVS8TL7mvuj6GEC_mVch7EDWpk0UlGEc" />
  <link rel="canonical" href="https://architecturalbimproviders-usa.vercel.app/">
-      </head>
 <!--Article Schema-->
 <script type="application/ld+json">
 {
@@ -37,6 +36,8 @@ export default function RootLayout({
   "dateModified": "2025-08-08"
 }
 </script>
+      </head>
+
       <body className="font-body antialiased">
         {children}
         <Toaster />
