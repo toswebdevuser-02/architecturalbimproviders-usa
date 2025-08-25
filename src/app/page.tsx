@@ -133,7 +133,7 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {/* Gensler */}
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
-                <h3 className="font-headline text-2xl mb-2">Gensler</h3>
+                <h3 className="font-headline text-2xl mb-2"><a href="https://www.teslaoutsourcingservices.com/">Gensler</a></h3>
                 <p className="mb-4">
                   Founded in 1965,<a href="http://www.gensler.com" target="_blank" rel="noopener noreferrer">Gensler</a> is a global architecture firm with a
                   robust BIM & Design Systems team. Their integrated delivery
@@ -150,7 +150,7 @@ export default function Home() {
 
               {/* HOK */}
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
-                <h3 className="font-headline text-2xl mb-2">HOK</h3>
+                <h3 className="font-headline text-2xl mb-2"><a href="https://www.hok.com/">HOK</a> </h3>
                 <p className="mb-4">
                   <a href="http://www.hok.com" target="_blank" rel="noopener noreferrer">HOK</a> pioneered firm-wide BIM adoption with its “BIM Certified”
                   program. Their services emphasize Revit-based parametric modeling and cloud collaboration.
@@ -165,7 +165,7 @@ export default function Home() {
 
               {/* Tesla Outsourcing Services */}
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
-                <h3 className="font-headline text-2xl mb-2">Tesla Outsourcing Services</h3>
+                <h3 className="font-headline text-2xl mb-2"><a href="https://www.teslaoutsourcingservices.com/"> Tesla Outsourcing Services></a></h3>
                 <p className="mb-4">
                   With roots in California and offshore production in India,<a href="http://www.teslaoutsourcingservices.com" target="_blank" rel="noopener noreferrer">Tesla
                   Outsourcing Services</a> delivers CAD to BIM conversions, Revit family creation, and as-built modeling.
@@ -180,7 +180,7 @@ export default function Home() {
               
               {/* Zaha Hadid Architects (ZHA) */}
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
-                <h3 className="font-headline text-2xl mb-2">Zaha Hadid Architects (ZHA)</h3>
+                <h3 className="font-headline text-2xl mb-2"><a href="https://www.zaha-hadid.com/">Zaha Hadid Architects (ZHA)</a></h3>
                 <p className="mb-4">
                   <a href="http://www.zaha-hadid.com" target="_blank" rel="noopener noreferrer">ZHA</a> integrates computational design with BIM to handle complex
                   geometries, using custom scripts and metadata-driven workflows.
@@ -195,7 +195,7 @@ export default function Home() {
 
               {/* Foster + Partners */}
               <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
-                <h3 className="font-headline text-2xl mb-2">Foster + Partners</h3>
+                <h3 className="font-headline text-2xl mb-2"><a href="https://www.fosterandpartners.com/">Foster + Partners</a></h3>
                 <p className="mb-4">
                   <a href="http://www.fosterandpartners.com" target="_blank" rel="noopener noreferrer">Foster + Partners’</a> in-house BIM & Design Systems team acts as the
                   guardian of the digital model, ensuring a single source of truth.
