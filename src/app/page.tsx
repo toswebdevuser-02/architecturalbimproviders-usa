@@ -164,7 +164,7 @@ export default function Home() {
               </div>
 
               {/* Tesla Outsourcing Services */}
-              <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg">
+              <div className="bg-card text-card-foreground p-6 rounded-lg shadow-lg"> 
                 <h3 className="font-headline text-2xl mb-2">Tesla Outsourcing Services></h3>
                 <p className="mb-4">
                   With roots in California and offshore production in India,<a href="https://www.teslaoutsourcingservices.com/" target="_blank">Tesla
